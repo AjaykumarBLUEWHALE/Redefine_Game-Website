@@ -456,7 +456,7 @@ button:hover{
         height: auto;
     }
 }*/
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 900px) {
  header{
     padding: 0 10px;
  }.head-left button{
