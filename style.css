@@ -496,6 +496,7 @@ display: none;
     width: 150px;
   left: -20px;
   bottom: 0;
+    display: none;
  }
  .contact-section h1{
     font-size: 45px;
@@ -507,7 +508,7 @@ display: none;
     display: none;
  }
  .footer ul{
-    margin-left: 70px;
+    margin-left: 50px;
  }
  .stones-img{
     margin-top: 80%;
