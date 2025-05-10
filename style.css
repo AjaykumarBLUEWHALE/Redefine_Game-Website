@@ -431,32 +431,7 @@ button:hover{
     }
 }
 
-/*@media screen and (max-width: 768px) {
-    .hero-info h1{
-        font-size: 60px;
-    }
-    .gaming-text{
-        font-size: 80px;
-    }
-    .next-btn{
-        width: 150px;
-        height: 150px;
-        font-size: 25px;
-    }
-    .about-section h1{
-        font-size: 50px;
-    }
-    .info-section h3{
-        font-size: 30px;
-    }
-    .info-section p{
-        max-width: 100%;
-    }
-    .card{
-        height: auto;
-    }
-}*/
-@media screen and (max-width: 668px) {
+@media screen and (max-width: 768px) {
  header{
     padding: 0 10px;
  }.head-left button{
