@@ -479,6 +479,12 @@ display: none;
     width: 150px;
    
  }
+     .card h1{
+    font-size: 20px;
+ }
+ .card p{
+    font-size: 10px;
+ }
  .next-btn:hover{
     width: 150px;
     height: 150px;
